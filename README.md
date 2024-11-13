@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Hennequin De Meyer
+- prénom : Ethan
+- URL Netlify : https://wonderful-licorice-731709.netlify.app/
 
 # Travail
 
